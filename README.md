@@ -81,7 +81,7 @@ A modern, full-stack patient directory application built with **Next.js 14**, **
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/patient-directory.git
+git clone https://github.com/Aqib1239/patient-directory.git
 cd patient-directory
 ```
 
