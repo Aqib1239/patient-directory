@@ -355,17 +355,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-# 📞 Contact
-
-Your Name  
-Twitter: https://twitter.com/yourtwitter  
-Email: email@example.com  
-
-Project Link:  
-https://github.com/yourusername/patient-directory
-
----
-
 # 🙏 Acknowledgments
 
 - Next.js Team
