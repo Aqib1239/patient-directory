@@ -2,13 +2,13 @@
 
 A modern, full-stack patient directory application built with **Next.js 14**, **TypeScript**, and **TailwindCSS**. This application provides an intuitive interface for managing patient records with both table and card views, advanced filtering, and real-time search capabilities.
 
-![Patient Directory Demo](public/demo-screenshot.png)
+![Patient Directory Demo]([public/demo-screenshot.png](https://github.com/Aqib1239/patient-directory.git))
 
 ---
 
 # 🚀 Live Demo
 
-[View Live Application](your-vercel-url-here)
+[View Live Application](https://patient-directory-ochre.vercel.app)
 
 ---
 
